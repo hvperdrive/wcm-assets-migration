@@ -1,0 +1,20 @@
+{
+  "name": "assets-migrations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gridfs-stream": "^1.1.1",
+    "mongoose": "^5.4.22",
+    "node-uuid": "^1.4.8",
+    "ramda": "^0.26.1"
+  }
+}
